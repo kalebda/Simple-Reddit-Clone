@@ -4,7 +4,9 @@ Backend is built with node.js,express.js,typeorm,graphql,apollo server. Frontend
 
 # Installation
 1.clone the repo
-```git clone https://github.com/kalebda/Simple-Reddit-Clone.git```
+```
+git clone https://github.com/kalebda/Simple-Reddit-Clone.git
+```
 2.install dependencies
 ```
 cd server
